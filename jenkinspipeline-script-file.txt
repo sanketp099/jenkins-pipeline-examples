@@ -4,7 +4,7 @@ node {
            
 		stage "Stage #"+i
            
-		print 'Hello, world !'
+		print 'Hello, Sanket !'
           
 		if (i==0)
            
@@ -16,7 +16,7 @@ node {
            
 		else {
                
-			build 'user-input-pipeline'
+			build 'user input'
               
 			 echo 'Running on Stage #1'
            
